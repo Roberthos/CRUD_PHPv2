@@ -28,6 +28,7 @@ $dados=mysqli_query($conn,$sql);
     <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisar</button>
   </form>
 </nav>
+//comentario
 <table class="table table-hover">
   <thead>
     <tr>
